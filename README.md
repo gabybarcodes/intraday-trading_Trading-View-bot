@@ -1,0 +1,1 @@
+# intraday-trading_Trading-View-bot
